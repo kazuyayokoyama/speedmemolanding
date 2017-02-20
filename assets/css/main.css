@@ -1,0 +1,143 @@
+body {
+    position: relative;
+    font-family: "TrebuchetMS", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background:url(../img/cardboard.png);
+}
+
+div.content {
+	width: 960px;
+	margin: 0 auto;
+	position: relative;
+}
+
+div#top {
+    height: 390px;
+    background:url(../img/bg_black_top.png);
+}
+
+div#middle {
+    padding-top: 320px;
+    padding-bottom: 270px;
+}
+
+div#bottom {
+    position: absolute;
+    padding-top: 20px;
+    bottom: 0;
+    width: 100%;
+    height: 190px;
+    color: white;
+    background:url(../img/bg_black_bottom.png);
+}
+
+div#bottom h3 {
+    color: white;
+}
+
+div#title {
+    position: absolute;
+    font-weight: bold;
+    font-size: 70px;
+    color: white;
+    left: 500px;
+    top: 170px;
+		line-height:80px;
+}
+
+div#description {
+    position: absolute;
+    font-size: 38px;
+    color: white;
+    left: 365px;
+    top: 310px;
+		line-height:48px;
+}
+
+div#ma7-img {
+    position: absolute;
+    left: 365px;
+    top: 557px;
+}
+
+div#ma7-title {
+    position: absolute;
+    font-size: 17px;
+    font-weight: bold;
+    left: 500px;
+    top: 580px;
+}
+
+div#ma7-content {
+    position: absolute;
+    font-size: 14px;
+    left: 502px;
+    top: 605px;
+}
+
+img.iphone {
+    position: absolute;
+    left: 0px;
+    top: 30px;
+}
+
+img.icon {
+    position: absolute;
+    left: 350px;
+    top: 150px;
+}
+
+img.appstore {
+    position: absolute;
+    left: 360px;
+    top: 435px;
+}
+
+div#share{
+    text-align:center;
+    padding: 40px 0px 0px 0px;
+    clear:both;
+}
+
+div#copyright{
+    text-align:center;
+    color: gray;
+    padding: 10px;
+}
+
+div#tos{
+    text-align:center;
+    color: gray;
+    padding-top: 10px;
+}
+
+div#tos a {
+    color: gray;
+}
+
+.section {
+    margin-top: 25px;
+}
+
+.message p, dl {
+    font-size: 14px;
+    line-height: 180%;
+}
+
+.footer {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    text-align:center;
+}
+
+.footer-divider {
+    margin-top: 10px;
+}
+
+.small-link {
+    margin-top: 5px;
+}
+
+#main {
+    margin: 0 auto;
+    padding-top: 50px;
+}

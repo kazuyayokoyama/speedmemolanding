@@ -1,0 +1,28 @@
+{
+  "ma7": {
+    "title": "Prize Winner of the Mashup Awards 7 (#MA7)",
+    "content": "SpeedMemo has won &quot;Catch.com Award&quot;."
+  },
+  "whats": {
+    "title": "What's SpeedMemo?",
+	"question": "Have you ever forgotten important ideas?",
+	"intro": "\"SpeedMemo\" is an iPhone application specialized in taking the memo fast. You can take memo as soon as it starts up. After you save memo, you can email memo, tweet it to Twitter, save it on Evernote, post it to Facebook wall and so forth.",
+	"video": "Watch Video on Vimeo &raquo;"
+  },
+  "take": {
+    "title": "Take Memo Fast.",
+    "content": "Soon after the app starts up, you can take memo faster than ever before."
+  },
+  "share": {
+    "title": "Share Memo Fast.",
+    "content": "SpeedMemo allows you to share memo with the below services fast."
+  },
+  "aboutus": {
+    "title": "About Us",
+    "content": "Individual. Mobile application developer. Web designer. Always interested in social networking and UX design."
+  },
+  "support": {
+    "title": "Support",
+    "content": "Get in touch with us via the following methods if you have any issues with our app. Thank you."
+  }
+}

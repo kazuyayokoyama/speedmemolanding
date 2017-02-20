@@ -1,0 +1,28 @@
+{
+  "ma7": {
+    "title": "Mashup Awards 7 (#MA7) 受賞アプリ",
+    "content": "SpeedMemoは&quot;Catch.com賞&quot;を受賞しました。"
+  },
+  "whats": {
+    "title": "SpeedMemoとは?",
+	"question": "パッと思いついたアイディアを忘れてしまった経験はありませんか？",
+	"intro": "SpeedMemoは高速にメモをとることに特化したアプリです。起動してすぐにメモすることができ，Twitter，Evernote,Facebook等へシェアすることが可能です。",
+	"video": "アプリ紹介ビデオを見る &raquo;"
+  },
+  "take": {
+    "title": "起動と同時にメモ高速保存",
+    "content": "起動するとすぐにメモ作成画面になり素早く思いついたアイディア等をメモすることができます。"
+  },
+  "share": {
+    "title": "どこへでも素早くシェア",
+    "content": "SpeedMemoは以下のSNSやクラウドサービスに素早くメモをシェアできます。"
+  },
+  "aboutus": {
+    "title": "開発メンバ",
+    "content": "個人。 iOS，Android上でのモバイルアプリケーション開発。Webデザイナー。ソーシャルネットワーキングやUXデザインを中心に活動しています。"
+  },
+  "support": {
+    "title": "サポート",
+    "content": "このアプリに関して，ご要望・不具合などありましたら以下からお気軽にご連絡ください。"
+  }
+}
